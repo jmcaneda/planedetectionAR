@@ -8,4 +8,4 @@ El grid lo puedo desplazar por los diferentes planos, siguiendo los Raycast suce
 Con un click o tap, instancio el objeto, en esta ocasión un gizmo. Este sigue al grid o rota si el grid permanece inmovil.
 Con doble click o doble tap, fijo al gizmo en el lugar y orientación deseada.
 De esta forma he podido fijar el portal en M-ART Soho, a la distancia adecuada, para una mejor experiencia AR.
-Veámoslo en vivo, desde el vidio promoción <a href="https://youtu.be/Wh_YoU_aExg" target="_blank"> https://youtu.be/Wh_YoU_aExg</a>
+Veámoslo en vivo, desde el video promoción <a href="https://youtu.be/Wh_YoU_aExg" target="_blank"> https://youtu.be/Wh_YoU_aExg</a>
